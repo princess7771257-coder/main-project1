@@ -69,6 +69,8 @@ header input {
 
 .movie img {
     width: 100%;
+    height: 300px; /*одна высота для всех*/
+    object-fit: cover;
     border-radius: 10px;
 }
 
